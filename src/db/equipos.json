@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63842e988210759f545dc1e8"
+  },
+  "jugadores": [
+    {
+      "$oid": "6384284af2e79288aac08bed"
+    }
+  ],
+  "nombre": "FC Barcelona",
+  "descripcion": "Liga A primera division",
+  "directorPrincipal": {
+    "$oid": "63842d7f72c8079da3815a24"
+  },
+  "nombreEstadio": "camp nou",
+  "totalPartidos": 22
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63842d7f72c8079da3815a24"
+  },
+  "nombre": "mario",
+  "apellido": "pereria",
+  "identificacion": 211032,
+  "fueJugador": true,
+  "edad": 30
+},{
+  "_id": {
+    "$oid": "63842d9c72c8079da3815a2c"
+  },
+  "nombre": "mario",
+  "apellido": "pererssia",
+  "identificacion": 2110132,
+  "fueJugador": true,
+  "edad": 30
+}]

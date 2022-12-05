@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6384284af2e79288aac08bed"
+  },
+  "nombre": "juan",
+  "apellido": "jose",
+  "identificacion": 2032,
+  "dorsal": 10,
+  "goles": 10,
+  "nacionalidad": "Mexicana",
+  "posicion": "Delantero central",
+  "edad": 20
+},{
+  "_id": {
+    "$oid": "63842d4972c8079da3815a1c"
+  },
+  "nombre": "juan",
+  "apellido": "josesa",
+  "identificacion": 21032,
+  "dorsal": 10,
+  "goles": 10,
+  "nacionalidad": "Mexicana",
+  "posicion": "Delantero central",
+  "edad": 20
+}]
